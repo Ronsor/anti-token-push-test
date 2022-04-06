@@ -1,0 +1,3 @@
+DISCORD BOT TOKEN
+
+token = "Njc0NjA4ODU2MTkzNjk1Nzcz.XjrEdA.hXi3-uqj5m6Ovzn2htrLXPktbwQ";
